@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5442b997-5a4a-47ef-b489-a15bdf1e9768" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lesson2/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson2/Notebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson2/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson2/OrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resolvehw2/Task1/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resolvehw2/Task1/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resolvehw2/Task1/Geo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resolvehw2/Task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resolvehw2/Task1/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +59,7 @@
       <recent name="C:\Users\User\IdeaProjects\Java-core- new 2024\libs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.resolveshw1.Main">
+  <component name="RunManager" selected="Application.resolvehw2.Task2.Main">
     <configuration name="Lesson1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson1.Main" />
       <module name="Java-core- new 2024" />
@@ -93,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="resolves.hw1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="resolves.hw1.Main" />
+    <configuration name="resolvehw2.Task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="resolvehw2.Task2.Main" />
       <module name="Java-core- new 2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="resolves.hw1.*" />
+          <option name="PATTERN" value="resolvehw2.Task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.resolvehw2.Task2.Main" />
         <item itemvalue="Application.resolveshw1.Main" />
         <item itemvalue="Application.Lesson1.Main" />
         <item itemvalue="Application.ProductDemo" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.resolves.hw1.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +143,8 @@
       <workItem from="1704376575985" duration="3275000" />
       <workItem from="1704391303225" duration="833000" />
       <workItem from="1704436731132" duration="2238000" />
-      <workItem from="1704781875550" duration="303000" />
+      <workItem from="1704781875550" duration="540000" />
+      <workItem from="1704783127279" duration="3963000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson1 - lecture + resolve">
       <option name="closed" value="true" />
@@ -153,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704438268295</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lesson2 - lecture">
+      <option name="closed" value="true" />
+      <created>1704782394560</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704782394560</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +170,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lesson1 - lecture + resolve" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson1 - lecture + resolve" />
+    <MESSAGE value="Lesson2 - lecture" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson2 - lecture" />
   </component>
 </project>
