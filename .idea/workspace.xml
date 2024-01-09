@@ -5,26 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5442b997-5a4a-47ef-b489-a15bdf1e9768" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lombok.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-core- new 2024.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/lombok.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson1/ArrayDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson1/BuilderDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson1/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson1/ProductDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resolveshw1/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resolveshw1/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resolveshw1/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resolveshw1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resolveshw1/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson2/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson2/Notebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson2/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson2/OrderStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,11 +142,25 @@
       <workItem from="1704354597296" duration="12700000" />
       <workItem from="1704376575985" duration="3275000" />
       <workItem from="1704391303225" duration="833000" />
-      <workItem from="1704436731132" duration="1292000" />
+      <workItem from="1704436731132" duration="2238000" />
+      <workItem from="1704781875550" duration="303000" />
     </task>
+    <task id="LOCAL-00001" summary="Lesson1 - lecture + resolve">
+      <option name="closed" value="true" />
+      <created>1704438268295</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704438268295</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lesson1 - lecture + resolve" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson1 - lecture + resolve" />
   </component>
 </project>
