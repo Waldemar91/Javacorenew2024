@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5442b997-5a4a-47ef-b489-a15bdf1e9768" name="Changes" comment="Homework2 - task4">
+    <list default="true" id="5442b997-5a4a-47ef-b489-a15bdf1e9768" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Lesson3/AbstractShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson3/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson3/Colorable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson3/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson3/calculator/AddOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson3/calculator/CalculatorMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson3/calculator/Operation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resolvehw2/Task4/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/resolvehw2/Task4/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resolvehw2/Task4/enums/Skills.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/resolvehw2/Task4/enums/Skills.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +62,7 @@
       <recent name="C:\Users\User\IdeaProjects\Java-core- new 2024\libs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.resolvehw2.Task1.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="resolvehw2.Task4.Main" />
       <module name="Java-core- new 2024" />
@@ -124,8 +130,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.resolvehw2.Task1.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.resolvehw2.Task1.Main" />
         <item itemvalue="Application.resolvehw2.Task3.Main" />
         <item itemvalue="Application.resolvehw2.Task2.Main" />
         <item itemvalue="Application.resolveshw1.Main" />
@@ -152,6 +158,8 @@
       <workItem from="1704792274065" duration="260000" />
       <workItem from="1704799113594" duration="3278000" />
       <workItem from="1704802717945" duration="1776000" />
+      <workItem from="1704806852584" duration="700000" />
+      <workItem from="1704954729318" duration="642000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson1 - lecture + resolve">
       <option name="closed" value="true" />
@@ -201,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704802139368</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Homework2 - task4">
+      <option name="closed" value="true" />
+      <created>1704807013265</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1704807013265</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
