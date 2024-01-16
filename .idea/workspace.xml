@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5442b997-5a4a-47ef-b489-a15bdf1e9768" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/resolvehw3/Task2/Drum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resolvehw3/Task2/Guitar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resolvehw3/Task2/Instrument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resolvehw3/Task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resolvehw3/Task2/Trumpet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson4/CollectionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson4/StreamDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -158,7 +155,8 @@
       <workItem from="1704806852584" duration="700000" />
       <workItem from="1704954729318" duration="809000" />
       <workItem from="1704958541559" duration="732000" />
-      <workItem from="1704961512093" duration="5045000" />
+      <workItem from="1704961512093" duration="5736000" />
+      <workItem from="1705394956514" duration="613000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson1 - lecture + resolve">
       <option name="closed" value="true" />
@@ -232,7 +230,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704962717714</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Homework 3 - Task2">
+      <option name="closed" value="true" />
+      <created>1704972645844</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1704972645844</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,6 +253,7 @@
     <MESSAGE value="Homework2 - task4" />
     <MESSAGE value="Lesson 3" />
     <MESSAGE value="Homework 3 - Task1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 3 - Task1" />
+    <MESSAGE value="Homework 3 - Task2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 3 - Task2" />
   </component>
 </project>
