@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5442b997-5a4a-47ef-b489-a15bdf1e9768" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/resolvehw4/Task3/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resolvehw4/Task3/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resolvehw4/Task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resolvehw4/Task3/Skill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resolvehw4/Task3/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resolvehw4/Task4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resolvehw4/Task4/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resolvehw4/Task4/Pet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,13 +57,13 @@
       <recent name="C:\Users\User\IdeaProjects\Java-core- new 2024\libs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.resolvehw4.Task3.Main">
-    <configuration name="resolvehw3.Task1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="resolvehw3.Task1.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="resolvehw4.Task4.Main" />
       <module name="Java-core- new 2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="resolvehw3.Task1.*" />
+          <option name="PATTERN" value="resolvehw4.Task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.resolvehw4.Task3.Main" />
         <item itemvalue="Application.resolvehw4.Task2.Main" />
         <item itemvalue="Application.resolvehw4.Task1.Main" />
         <item itemvalue="Application.resolvehw3.Task2.Main" />
-        <item itemvalue="Application.resolvehw3.Task1.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +159,8 @@
       <workItem from="1704961512093" duration="5736000" />
       <workItem from="1705394956514" duration="3609000" />
       <workItem from="1705405287372" duration="1398000" />
-      <workItem from="1705406973788" duration="2139000" />
+      <workItem from="1705406973788" duration="2284000" />
+      <workItem from="1705410773443" duration="3765000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson1 - lecture + resolve">
       <option name="closed" value="true" />
@@ -267,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705398968562</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Homework 4 - Task3">
+      <option name="closed" value="true" />
+      <created>1705409262534</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1705409262534</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,6 +293,7 @@
     <MESSAGE value="Lesson 4" />
     <MESSAGE value="Homework 4 - Task1" />
     <MESSAGE value="Homework 4 - Task2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 4 - Task2" />
+    <MESSAGE value="Homework 4 - Task3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 4 - Task3" />
   </component>
 </project>
