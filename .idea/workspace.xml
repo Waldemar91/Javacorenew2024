@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5442b997-5a4a-47ef-b489-a15bdf1e9768" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lesson5/exception/CustomException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson5/exception/CustomUncheckedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson5/exception/ExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resolvehw5/Task1/ArrayListHomework.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,13 +55,13 @@
       <recent name="C:\Users\User\IdeaProjects\Java-core- new 2024\libs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="resolvehw4.Task4.Main" />
+  <component name="RunManager" selected="Application.ArrayListHomework">
+    <configuration name="ArrayListHomework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="resolvehw5.Task1.ArrayListHomework" />
       <module name="Java-core- new 2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="resolvehw4.Task4.*" />
+          <option name="PATTERN" value="resolvehw5.Task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="resolvehw3.Task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="resolvehw3.Task2.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="resolvehw4.Task4.Main" />
       <module name="Java-core- new 2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="resolvehw3.Task2.*" />
+          <option name="PATTERN" value="resolvehw4.Task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayListHomework" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.resolvehw4.Task3.Main" />
         <item itemvalue="Application.resolvehw4.Task2.Main" />
         <item itemvalue="Application.resolvehw4.Task1.Main" />
-        <item itemvalue="Application.resolvehw3.Task2.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +159,8 @@
       <workItem from="1705405287372" duration="1398000" />
       <workItem from="1705406973788" duration="2284000" />
       <workItem from="1705410773443" duration="4686000" />
-      <workItem from="1705558609896" duration="339000" />
+      <workItem from="1705558609896" duration="487000" />
+      <workItem from="1705581295254" duration="299000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson1 - lecture + resolve">
       <option name="closed" value="true" />
@@ -283,7 +282,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705414894470</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Lesson5">
+      <option name="closed" value="true" />
+      <created>1705559090229</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1705559090229</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -304,6 +311,7 @@
     <MESSAGE value="Homework 4 - Task2" />
     <MESSAGE value="Homework 4 - Task3" />
     <MESSAGE value="Homework 4 - Task4 - add Member to ZooClub" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 4 - Task4 - add Member to ZooClub" />
+    <MESSAGE value="Lesson5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson5" />
   </component>
 </project>
