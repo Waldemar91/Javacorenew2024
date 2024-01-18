@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5442b997-5a4a-47ef-b489-a15bdf1e9768" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/resolvehw5/Task2/ArrayOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resolvehw5/Task3/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resolvehw5/Task3/CarHomework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resolvehw5/Task3/Owner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +57,7 @@
       <recent name="C:\Users\User\IdeaProjects\Java-core- new 2024\libs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayOperations">
+  <component name="RunManager" selected="Application.CarHomework">
     <configuration name="ArrayListHomework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="resolvehw5.Task1.ArrayListHomework" />
       <module name="Java-core- new 2024" />
@@ -95,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="resolvehw4.Task4.Main" />
+    <configuration name="CarHomework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="resolvehw5.Task3.CarHomework" />
       <module name="Java-core- new 2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="resolvehw4.Task4.*" />
+          <option name="PATTERN" value="resolvehw5.Task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarHomework" />
         <item itemvalue="Application.ArrayOperations" />
         <item itemvalue="Application.resolvehw5.Task3.ArrayOperations" />
         <item itemvalue="Application.ArrayTasks" />
         <item itemvalue="Application.ArrayListHomework" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +162,7 @@
       <workItem from="1705406973788" duration="2284000" />
       <workItem from="1705410773443" duration="4686000" />
       <workItem from="1705558609896" duration="487000" />
-      <workItem from="1705581295254" duration="6061000" />
+      <workItem from="1705581295254" duration="8756000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson1 - lecture + resolve">
       <option name="closed" value="true" />
@@ -298,7 +300,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705581871395</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Homework5 - Task2">
+      <option name="closed" value="true" />
+      <created>1705587606473</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1705587606473</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,6 +331,7 @@
     <MESSAGE value="Homework 4 - Task4 - add Member to ZooClub" />
     <MESSAGE value="Lesson5" />
     <MESSAGE value="Homework5 - Task1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework5 - Task1" />
+    <MESSAGE value="Homework5 - Task2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework5 - Task2" />
   </component>
 </project>
