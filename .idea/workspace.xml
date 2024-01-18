@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5442b997-5a4a-47ef-b489-a15bdf1e9768" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/resolvehw4/Task4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resolvehw4/Task4/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resolvehw4/Task4/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson5/exception/CustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson5/exception/CustomUncheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson5/exception/ExceptionDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -160,7 +160,8 @@
       <workItem from="1705394956514" duration="3609000" />
       <workItem from="1705405287372" duration="1398000" />
       <workItem from="1705406973788" duration="2284000" />
-      <workItem from="1705410773443" duration="3765000" />
+      <workItem from="1705410773443" duration="4686000" />
+      <workItem from="1705558609896" duration="339000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson1 - lecture + resolve">
       <option name="closed" value="true" />
@@ -274,7 +275,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705409262534</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Homework 4 - Task4 - add Member to ZooClub">
+      <option name="closed" value="true" />
+      <created>1705414894470</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1705414894470</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -294,6 +303,7 @@
     <MESSAGE value="Homework 4 - Task1" />
     <MESSAGE value="Homework 4 - Task2" />
     <MESSAGE value="Homework 4 - Task3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 4 - Task3" />
+    <MESSAGE value="Homework 4 - Task4 - add Member to ZooClub" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 4 - Task4 - add Member to ZooClub" />
   </component>
 </project>
